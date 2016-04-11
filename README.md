@@ -1,4 +1,4 @@
-# Raspberry Pi Development (Python from Host PC with Sublime Text)
+# Raspberry Pi Setup Guide for Python Development from Host PC with Sublime Text
 
 ## Prerequisite
 * Sublime Text 3 installed (PackageControl, CodeIntel)
